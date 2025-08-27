@@ -54,6 +54,6 @@
 
 Developed by [Ashwin Rai & Sachin Kushwaha]
 
-LinkedIn: [https://www.linkedin.com/in/ashwin-rai-099b20316/][http://www.linkedin.com/in/sachin624k]
+LinkedIn: https://www.linkedin.com/in/ashwin-rai-099b20316/  http://www.linkedin.com/in/sachin624k
 
 GitHub: (https://github.com/sachin624k)

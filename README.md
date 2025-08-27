@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Smart Gig Wallet
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🔥 Smart Gig Wallet helps gig workers track and analyze their income from multiple sources effortlessly.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Upload transaction/log files and see parsed income summaries.
+- Visualize income sources with dynamic pie charts.
+- Track income trends over months with line charts.
+- Smart suggestions for savings and investments.
+- Light/Dark mode toggle for a comfortable viewing experience.
+- Responsive and modern UI built with React and Tailwind CSS.
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React (with hooks)
+- Tailwind CSS for styling and dark mode
+- Chart.js (via react-chartjs-2) for interactive charts
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation & Setup
 
-### `npm test`
+1. Clone the repository:
+   git clone https://github.com/yourusername/smart-gig-wallet.git
+   
+2. Navigate to the project folder:
+   cd smart-gig-wallet
+   
+3. Install dependencies:
+   npm install
+   
+4. Run the development server:
+   npm start
+   
+5. Open [http://localhost:3000](http://localhost:3000) to view in the browser.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+- Upload your transaction or logs file in plain text format.
+- View parsed income summary and charts.
+- Toggle between Light and Dark modes as per your preference.
+- Get smart suggestions based on your income analytics.
+- 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Future Enhancements
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Real-time sync with popular gig platforms (Uber, Swiggy, etc.).
+- Export reports as PDF or CSV.
+- Add multi-language support.
+- Enhance with authentication and cloud storage.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Contact
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Developed by [Ashwin Rai & Sachin Kushwaha]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+LinkedIn: [https://www.linkedin.com/in/ashwin-rai-099b20316/][http://www.linkedin.com/in/sachin624k]
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub: (https://github.com/sachin624k)

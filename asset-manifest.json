@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-gig-walletS/static/css/main.1785c765.css",
+    "main.js": "/smart-gig-walletS/static/js/main.e1ce5109.js",
+    "index.html": "/smart-gig-walletS/index.html",
+    "main.1785c765.css.map": "/smart-gig-walletS/static/css/main.1785c765.css.map",
+    "main.e1ce5109.js.map": "/smart-gig-walletS/static/js/main.e1ce5109.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1785c765.css",
+    "static/js/main.e1ce5109.js"
+  ]
+}

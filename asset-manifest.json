@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/smart-gig-walletS/static/css/main.1785c765.css",
-    "main.js": "/smart-gig-walletS/static/js/main.e1ce5109.js",
+    "main.css": "/smart-gig-walletS/static/css/main.2c993532.css",
+    "main.js": "/smart-gig-walletS/static/js/main.2984535f.js",
     "index.html": "/smart-gig-walletS/index.html",
-    "main.1785c765.css.map": "/smart-gig-walletS/static/css/main.1785c765.css.map",
-    "main.e1ce5109.js.map": "/smart-gig-walletS/static/js/main.e1ce5109.js.map"
+    "main.2c993532.css.map": "/smart-gig-walletS/static/css/main.2c993532.css.map",
+    "main.2984535f.js.map": "/smart-gig-walletS/static/js/main.2984535f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1785c765.css",
-    "static/js/main.e1ce5109.js"
+    "static/css/main.2c993532.css",
+    "static/js/main.2984535f.js"
   ]
 }

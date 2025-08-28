@@ -1,6 +1,12 @@
 module.exports = {
-  darkMode: 'class', // class strategy is needed for toggling
+  darkMode: 'class',
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
-  theme: { extend: {} },
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ['Roboto', 'Arial', 'sans-serif'], // add your Google Font here
+      },
+    },
+  },
   plugins: [],
 };
